@@ -1,0 +1,14 @@
+.todo_list {
+	background-color: lemonchiffon;
+	position: relative;
+ 	margin: auto;
+	text-align: left;
+  margin-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 200px
+}
+
+.completed {
+  text-decoration: line-through;
+}
